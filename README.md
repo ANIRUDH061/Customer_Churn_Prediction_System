@@ -1,19 +1,19 @@
-## Customer_Churn_Prediction_System
+# Customer_Churn_Prediction_System
 A Machine Learning project that predicts whether a customer will leave an e-commerce platform or continue using it. This system helps businesses identify risky customers early and improve customer retention.
 
 
-# Project Overview
+## Project Overview
 Customer churn means when a customer stops using a company’s service or platform. For any business, losing customers can reduce profit and growth.
 In this project, I used customer behavior data from an e-commerce platform and applied Machine Learning techniques to predict churn.
 The model learns from past customer records and predicts whether a customer is likely to churn or stay.
 
-# Problem Statement
+## Problem Statement
 The goal of this project is to analyze customer data and build a predictive model that can classify customers into:
 Churned Customer
 Non-Churned Customer
 This helps businesses take action before losing valuable customers.
 
-# Technologies Used
+## Technologies Used
 Python
 Pandas
 NumPy
@@ -22,7 +22,7 @@ Seaborn
 Scikit-learn
 Jupyter Notebook
 
-# Dataset Description
+## Dataset Description
 The dataset contains customer-related information such as:
 Customer demographics
 Purchase behavior
@@ -33,7 +33,7 @@ Target Column:
 Churned = 1 → Customer Left
 Churned = 0 → Customer Stayed
 
-# Project Workflow
+## Project Workflow
 
 1.Import Required Libraries
 Necessary Python libraries were imported for:
@@ -85,7 +85,7 @@ Accuracy Score
 Classification Report
 Confusion Matrix
 
-# Conclusion
+## Conclusion
 In this project, I built a Machine Learning model to predict customer churn in an e-commerce platform.
 I performed:
 Data Analysis
