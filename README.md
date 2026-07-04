@@ -1,7 +1,7 @@
 # Customer_Churn_Prediction_System
 A Machine Learning project that predicts whether a customer will leave an e-commerce platform or continue using it. This system helps businesses identify risky customers early and improve customer retention.
 
-
+jjj
 ## Project Overview
 Customer churn means when a customer stops using a company’s service or platform. For any business, losing customers can reduce profit and growth.
 In this project, I used customer behavior data from an e-commerce platform and applied Machine Learning techniques to predict churn.
